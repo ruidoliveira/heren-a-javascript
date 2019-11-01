@@ -1,2 +1,2 @@
-# heren-a-javascript
-Utilizando o método de de herança com javascript
+# herenca-javascript
+Utilizando o método de de herança com javascript utilizando VSCODE
